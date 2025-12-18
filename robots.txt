@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Забороняємо сканування технічних папок
+Disallow: /temp/
+Disallow: /private-scripts/
+
+# Шлях до карти сайту
+Sitemap: https://dr0te.github.io/myfirstsite/sitemap.xml
